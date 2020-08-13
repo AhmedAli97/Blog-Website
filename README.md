@@ -1,2 +1,0 @@
-# Blog-Website
-RMZ training
